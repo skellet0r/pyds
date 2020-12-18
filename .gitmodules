@@ -2,3 +2,4 @@
 	path = docs/slides
 	url = https://github.com/hakimel/reveal.js.git
     shallow = true
+    ignore = dirty
