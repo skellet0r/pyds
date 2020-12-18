@@ -15,6 +15,13 @@
 - [Notebooks](notebooks/): jupyter notebooks used for research, analysis, modeling and et cetera
 - [Project Environment](environment.yml): environment file for use with the anaconda environment manager
 
+## Technologies
+
+- [Anaconda](https://www.anaconda.com/)
+- [Python](https://www.python.org/)
+- [Reveal.js](https://github.com/hakimel/reveal.js)
+  - Note: When building the slides to gh-pages branch use `git subtree push` command
+
 ## Quick Start
 
 > For a quick/temporary cloud-hosted instance of this project, click the `launch binder` tag
