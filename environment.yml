@@ -1,0 +1,10 @@
+name: [Project Name]
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
