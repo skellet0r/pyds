@@ -20,7 +20,8 @@
 - [Anaconda](https://www.anaconda.com/)
 - [Python](https://www.python.org/)
 - [Reveal.js](https://github.com/hakimel/reveal.js)
-  - Note: When building the slides to gh-pages branch use `git subtree push` command
+  - To add Reveal.js -> `git subtree add -P docs/slides https://github.com/hakimel/reveal.js.git master --squash`
+  - To push slides to origin/gh-pages -> `git subtree push -P docs/gh-pages origin gh-pages`
 
 ## Quick Start
 
